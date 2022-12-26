@@ -1,0 +1,9 @@
+C:\Users\Vinay Uppada\Desktop\story\.git
+C:\Users\Vinay Uppada\Desktop\story\.git\hooks
+C:\Users\Vinay Uppada\Desktop\story\.git\info
+C:\Users\Vinay Uppada\Desktop\story\.git\objects
+C:\Users\Vinay Uppada\Desktop\story\.git\refs
+C:\Users\Vinay Uppada\Desktop\story\.git\objects\info
+C:\Users\Vinay Uppada\Desktop\story\.git\objects\pack
+C:\Users\Vinay Uppada\Desktop\story\.git\refs\heads
+C:\Users\Vinay Uppada\Desktop\story\.git\refs\tags
